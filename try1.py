@@ -1,4 +1,3 @@
-```python
 if __name__ == "__main__":
     cases = int(input())
     for i in range(cases):
@@ -16,4 +15,4 @@ if __name__ == "__main__":
             alice = not alice
         alice = not alice
         print("Alice" if alice else "Bob")
-```
+
